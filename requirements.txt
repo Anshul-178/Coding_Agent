@@ -1,0 +1,10 @@
+langchain-core
+langgraph
+langgraph-checkpoint-sqlite
+langchain-anthropic
+langchain-openai
+langchain-google-genai
+langchain-ollama
+python-dotenv
+rich
+pytest
